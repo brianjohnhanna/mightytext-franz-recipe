@@ -1,0 +1,13 @@
+{
+  "id": "mightytext",
+  "name": "MightyText",
+  "version": "1.0.0",
+  "description": "MightyText",
+  "main": "index.js",
+  "author": "Brian Hanna <bjhanna728@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mightytext.net/web8",
+    "hasNotificationSound": false
+  }
+}
