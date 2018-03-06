@@ -1,6 +1,6 @@
 # MightyText for Franz
 
-This is a Franz recipe for MightyText, an Android SMS app to text from your computer. 
+This is a [Franz](https://meetfranz.com/) recipe for [MightyText](https://mightytext.net/), an Android SMS app which allows you to text from your computer and other devices. 
 
 For the time being there seems to be a backlog on plugin acceptance into the official Franz repository, so you must install this binary as a dev plugin. It is production ready and I use it daily. For that reason, I will update it if anything breaks.
 
